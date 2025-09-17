@@ -56,7 +56,7 @@ const corsOptions = {
     origin: process.env.FRONTEND_URL || [
         'http://localhost:3000',
         'http://127.0.0.1:5500',
-        'https://eventsroobaroo-dotcom.github.io/ROOBAROO./',
+        'https://eventsroobaroo-dotcom.github.io/ROOBAROOO/',
         'http://localhost:8080'
     ],
     methods: ['GET', 'POST'],
